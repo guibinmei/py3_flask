@@ -1,2 +1,2 @@
 print("ada")
-
+print("wo")
